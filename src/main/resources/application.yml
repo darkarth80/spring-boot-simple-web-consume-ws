@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Consume Web Service
+
+server:
+  port: 8081
