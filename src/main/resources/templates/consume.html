@@ -2,12 +2,14 @@
 <html xmlns:th="http://www.thymeleaf.org">
 
 <head>
-    <title>Texto del Servicio</title>
+    <title>Resultado</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 
 <body>
-    <p th:text="'Se muestra, ' + ${texto}" />
+    <p th:text="'Pais: ' + ${obj.pais}" />
+    <p th:text="'Oficina: ' + ${obj.oficina}" />
+    <p th:text="'Información: ' + ${obj.informacion}" />
 </body>
 
 </html>

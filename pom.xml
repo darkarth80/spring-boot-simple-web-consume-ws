@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-        <start-class>com.softtek.ConsumeWebServiceApplication</start-class>
+        <start-class>com.softtek.consumewebservice.ConsumeWebServiceApplication</start-class>
 	</properties>
 	
 	<dependencies>
