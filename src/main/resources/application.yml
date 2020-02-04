@@ -9,4 +9,4 @@ server:
   port: 8081
 
 web:
-  url: http://localhost:8080/
+  url: http://zyanyas-macbook-air.local:9080/prueba/
